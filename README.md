@@ -9,10 +9,13 @@
 
 >Home
 <img src="Screenshots/home.PNG" width="600" height="250">
-Clients
+
+>Clients
 <img src="Screenshots/clients.PNG" width="600" height="250" >
-Services
+
+>Services
 <img src="Screenshots/Services.PNG" width="600" height="250" >
-Contact
+
+>Contact
 <img src="Screenshots/Contact.PNG" width="600" height="250" >
 
