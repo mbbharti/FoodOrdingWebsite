@@ -7,12 +7,12 @@
 * List of some Clients
 * Contact Us form
 
-Home
+>Home
 <img src="Screenshots/home.PNG" width="600" height="250">
 Clients
 <img src="Screenshots/clients.PNG" width="600" height="250" >
 Services
 <img src="Screenshots/Services.PNG" width="600" height="250" >
 Contact
-<img src="Screenshots/Contact.PNG" width="600" height="250"" >
+<img src="Screenshots/Contact.PNG" width="600" height="250" >
 
